@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(10 24, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(John Soto)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I learned how to create an application that asks the user to enter their expenses in a dollar amount and convert it to a percentage.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://js16aa.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. ( The purpose of the calculatePercentages method is to do the necesscary conversions for this program to work.)
+2. (I learned different functions of the getElementById() method.)
+3. (I learned how to convert a String to a Float using the parseFloat() method.)
 
 
 
